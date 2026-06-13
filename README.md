@@ -2,6 +2,8 @@
 
 A Claude Code skill for writing thoughtful, collaborative code review comments. It covers how to phrase feedback so it helps the author instead of gatekeeping, what to look for across design, functionality, complexity, tests, naming, and consistency, and how to judge which issues are actually worth raising.
 
+![pr-review skill in action](pr-review.gif)
+
 ## What this skill does
 
 This skill helps Claude write review comments that feel like collaboration, not criticism. It produces feedback that:
